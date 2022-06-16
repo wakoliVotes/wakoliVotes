@@ -3,7 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F70A04&center=true&lines=<+Hello+World%F0%9F%91%8B,+My+Universe!+/>)](https://git.io/typing-svg)  
 </div>
 
-- 🌱 A Frontend-developer and Aspiring Android Developer
+- 🌱 Software Developer, passionate about creating amazing stuff
 - ⌚ My Software Development has been amazing, and it is still ongoing!
 - 🔭 Working on Myself 🌟🌟
 - 💬 Ask me about Web Front-end and Android Development
