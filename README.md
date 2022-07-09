@@ -23,6 +23,9 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakoliVotes&theme=omni&am&layout=compact&langs_count=10&hide=jupyter%20notebook)](https://github.com/danny-votez/github-readme-stats)  
   
-<hr width="60%">    
+<hr width="60%">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wakoliVotes&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&ring=1300DD&sideLabels=00DD29&dates=1C07FF)](https://git.io/streak-stats)
+
   
  </div>
