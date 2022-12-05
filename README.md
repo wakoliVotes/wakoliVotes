@@ -3,7 +3,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F70A04&center=true&lines=<+Hello+World%F0%9F%91%8B,+My+Universe!+/>)](https://git.io/typing-svg)  
 </div>
 
-![image](https://user-images.githubusercontent.com/77758884/205512801-2f7331a1-f4ba-433d-8e2a-7e69603778a7.png)
+![Screenshot from 2022-12-04 23-06-52](https://user-images.githubusercontent.com/77758884/205738899-53cd85f5-aac6-4d8a-9618-addaafab4df7.png)
+
 
 
 - 🌱 Software Developer, passionate about creating amazing stuff
