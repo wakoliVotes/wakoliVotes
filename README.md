@@ -10,7 +10,7 @@
 - 🌱 Software Developer, passionate about creating amazing stuff
 - ⌚ My Software Development has been amazing, and it is still ongoing!
 - 🔭 Working on Myself 🌟🌟
-- 💬 Ask me about **Web Front-end**, **Android Development** & UI/UX Design
+- 💬 Ask me about **Web Front-end**, **Android Development** & **UI/UX** Design
 - ⚡ Best Quote: "<strong><em>Real Artists Ship</em></strong>" - Steve Jobs
 <!-- 
 **Connect with me**
