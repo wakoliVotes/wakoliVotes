@@ -36,5 +36,10 @@
   
  </div>
  
- ![Visitor Count](https://profile-counter.glitch.me/{wakoliVotes}/count.svg)
+ 
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,js,react,redux,express,html,css,sass,bootstrap,git,github,mongodb,postgres,stackoverflow)](https://skillicons.dev)
+
+<!--  ![Visitor Count](https://profile-counter.glitch.me/{wakoliVotes}/count.svg) -->
 
