@@ -40,7 +40,5 @@
  
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,sqlite,swift,py,js,react,nodejs,express,html,css,sass,bootstrap,git,github,mysql,mongodb,postgres,firebase,vscode,idea,tailwind,linux,stackoverflow)](https://skillicons.dev)
-
-<!--  ![Visitor Count](https://profile-counter.glitch.me/{wakoliVotes}/count.svg) -->
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,sqlite,swift,dart,flutter,py,js,react,nodejs,express,html,css,sass,bootstrap,git,github,mysql,mongodb,postgres,firebase,vscode,idea,tailwind,linux,stackoverflow)](https://skillicons.dev)
 
