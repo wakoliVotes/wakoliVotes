@@ -11,7 +11,7 @@
 - ⌚ My Software Development has been amazing, and it is still ongoing!
 - 🔭 Working on Myself 🌟🌟
 - 💬 Ask me about **Web Front-end**, **Android Development** & **UI/UX** Design
-- Blogging @**[Acceldia](https://acceldia.com)** - A one-stop destination for all things life, business, start-ups, and technology
+- Blogging @**[Acceldia](https://acceldia.vercel.app/)** - A one-stop destination for all things life, business, start-ups, and technology
 - ⚡ Best Quote: "<strong><em>Real Artists Ship</em></strong>" - Steve Jobs
 <!-- 
 **Connect with me**
