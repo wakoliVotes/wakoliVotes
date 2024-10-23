@@ -20,7 +20,7 @@
   <img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://x.com/WakoliVotes" target="_blank">
-  <img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg colored" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://medium.com/@acceldia" target="_blank">
   <img height=30 width=30 src="https://user-images.githubusercontent.com/77758884/171897806-3e20ecb8-7f68-4813-9093-a9b1c65fdd4f.png" >&nbsp;&nbsp;&nbsp;&nbsp;
