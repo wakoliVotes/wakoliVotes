@@ -41,9 +41,9 @@
   
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wakoliVotes&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&ring=1300DD&sideLabels=00DD29&dates=FFFEF1&fire=000DFF&currStreakNum=CDDCDD)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wakoliVotes&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&ring=1300DD&sideLabels=00DD29&dates=FFFEF1&fire=000DFF&currStreakNum=CDDCDD)](https://git.io/streak-stats) 
 
-  
+ 
  </div>
  
  
